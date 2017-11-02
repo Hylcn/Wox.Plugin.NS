@@ -1,0 +1,12 @@
+{
+    "ID":"CEA0FDFC6D3B4085823D60DC76F28856",
+    "ActionKeyword":"ns",
+    "Name":"NSlookup",
+    "Description":"NSlookup",
+    "Author":"zguo",
+    "Version":"1.0.0",
+    "Language":"csharp",
+    "Website":"http://www.getwox.com/plugin",
+    "ExecuteFileName":"WoxPlugin-NS.dll",
+    "IcoPath":"images\\app.ico"
+}
